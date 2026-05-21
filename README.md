@@ -1,0 +1,3 @@
+This project used the SoliDataset to develop a gesture classifier. The dataset contains sequences of Range-Doppler Images (RDI) obtained from Google's Soli sensor, so this is a problem that requires spatial and temporal features.
+In order to solve this problem we followed to approaches: Spiking and Non-Spiking Neural Networks. Our Spiking algorithms were implemented using Liquid State Machines (LSM), while the Non-Spiking methods implemented End-to-End models using CNN+RNN, and different variants included the use of Autoencoders.
+Finally, our final and chosen architecture was a model formed by an Autoencoder and the LSM due to their efficacy in terms of memory and performance. 

@@ -3,6 +3,7 @@
 Hand gesture recognition from Google Soli radar data with Liquid State Machines (LSMs), Autoencoders, CNNs and RNNs.
 
 **Authors:** Diego Alonso Brule Galleguillos and Diana Cristina Andrade Damian
+
 Department of Mathematics, University of Padova
 
 ---
